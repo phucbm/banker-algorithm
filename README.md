@@ -1,12 +1,11 @@
-# gulp-boilerplate
+# Banker Algorithm
 
-A simple boilerplate for building web projects with Gulp.js.
-
-See more gulp setup at 👉 https://github.com/phucbm/gulp-cheatsheet
+Mã nguồn của thuật toán Banker dùng để xác định hệ thống có an toàn hay không. Dữ liệu đầu vào là danh sách các tiến
+trình và tài nguyên hệ thống.
 
 ## Deployment
 
-Install gulp
+Install
 
 ```shell
 npm install
