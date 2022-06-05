@@ -12,7 +12,7 @@
 
 <script src="assets/js/script.js"></script>
 <script>
-    new Banker({
+    const systems = new Banker({
         allocation: [
             [1, 0, 0],
             [2, 1, 1],
@@ -27,6 +27,8 @@
         ],
         available: [4, 1, 2]
     });
+
+    systems.request(1, [4, 1, 1]);
 </script>
 </body>
 </html>
