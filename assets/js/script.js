@@ -1,7 +1,7 @@
 class Banker{
     constructor(input){
         this.log = {
-            calc: false,
+            calc: true,
             result: true,
             process: true
         };
